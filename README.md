@@ -44,3 +44,25 @@ Ex 1) Walk through a folder tree and search for files with a certain file extens
 Ex 2) Walk through a folder tree and searches for files or folders over 50 MB and prints the file with absolute paths.
 
 Ex 3) Finds all files with a given prefix in a single folder and locates any gaps in the numbering. Have the program rename all the later files to close this gap.
+
+**Chapter 10 - Debugging **
+
+Ex 1) Debug the supplied coin flip program.
+
+#### To Do
+
+**Chapter 11 - Web Scraping**
+
+**Chapter 12 - Working with Excell Spreadsheets**
+
+**Chapter 13 - Working with PDF and Word Documents**
+
+**Chapter 14 - Working with CSV Files and JSON Data**
+
+**Chapter 15 - Keeping Time, Scheduling Tasks, and Launching Programs**
+
+**Chapter 16 - Sending Email and Text Messages**
+
+**Chapter 17 - Manipulating Images**
+
+**Chapter 18 - Controlling the Keyboard and Mouse with GUI Automation**
