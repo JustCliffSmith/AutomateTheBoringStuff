@@ -43,4 +43,4 @@ Ex 1) Walk through a folder tree and search for files with a certain file extens
 
 Ex 2) Walk through a folder tree and searches for files or folders over 50 MB and prints the file with absolute paths.
 
-Ex 3) Finds all files with a given prefix in a single folder and locates any gaps in the numbering. Have the program rename all the later files to close this gap. Also do the reverse, i.e. open a numbering gap.
+Ex 3) Finds all files with a given prefix in a single folder and locates any gaps in the numbering. Have the program rename all the later files to close this gap.
